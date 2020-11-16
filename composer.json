@@ -1,0 +1,18 @@
+{
+    "name": "soonio/utils",
+    "description": "a simple utils for myself!",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "\\soonio\\utils": "src"
+    },
+    "authors": [
+        {
+            "name": "清流",
+            "email": "soonio@qq.com"
+        }
+    ]
+}
